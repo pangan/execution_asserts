@@ -1,6 +1,6 @@
 [![PyPI version](https://badge.fury.io/py/execution-asserts.svg)](https://badge.fury.io/py/execution-asserts)
-[![Downloads](https://pepy.tech/badge/execution-asserts)](https://pepy.tech/project/execution-asserts)
-[![Downloads](https://pepy.tech/badge/execution-asserts/month)](https://pepy.tech/project/execution-asserts)
+[![PyPI download month](https://img.shields.io/pypi/dm/execution-asserts.svg)](https://pypi.python.org/pypi/execution-asserts/)
+[![PyPI pyversions](https://img.shields.io/pypi/pyversions/execution-asserts.svg)](https://pypi.python.org/pypi/execution-asserts/)
 
 
 # execution-asserts
