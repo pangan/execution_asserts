@@ -18,7 +18,7 @@ A collection of asserts for testing performance of the methods.
 
 Look at this sample :
     
-    from unittest import TestCase
+    import unittest
 
     from execution_assets import ExecutionTest
     
