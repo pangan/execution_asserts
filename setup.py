@@ -12,7 +12,7 @@ with open('README.md', 'r') as fh:
 
 setuptools.setup(
     name = 'execution_asserts',
-    version = '0.0.1',
+    version = '0.0.3',
     author = 'Amir Mofakhar',
     author_email = 'amir@mofakhar.info',
     description = 'A collection of asserts for methods execution',
