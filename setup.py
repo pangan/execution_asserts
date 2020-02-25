@@ -25,6 +25,7 @@ setuptools.setup(
         "Programming Language :: Python :: 2",
         "License :: OSI Approved :: Apache Software License",
         "Operating System :: OS Independent",
+        "Topic :: Software Development :: Testing",
     ],
     install_requires=['memory_profiler']
 
